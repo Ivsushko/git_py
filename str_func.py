@@ -3,4 +3,5 @@ def func_upper():
     print(s.upper())
 
 
+
 func_upper()
