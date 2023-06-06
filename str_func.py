@@ -11,12 +11,3 @@ def func_first_upper():
     print(s.title())
     print(func_upper.__doc__)
 
-def func_first_word():
-    '''
-    Принимает на вход строку, возвращает ее
-    с заглавной  буквой первого слова
-    '''
-    s = input("Введите предложение: ")
-    print(s.capitalize())
-    print(func_upper.__doc__)
-
